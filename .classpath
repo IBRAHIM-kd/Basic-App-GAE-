@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER/appengine-java-sdk-1.9.63"/>
+	<classpathentry kind="lib" path="C:/Users/IBRAHIM-PC/Documents/appengine-java-sdk-1.9.63.zip"/>
+	<classpathentry kind="lib" path="C:/Users/IBRAHIM-PC/Documents/appengine-java-sdk-1.6.3.1.zip"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/com.google.cloud.tools.eclipse.appengine.standard.runtimeClasspathProvider/App Engine Standard Runtime"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
